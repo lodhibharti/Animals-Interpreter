@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1 {
+  background-color: cadetblue;
+}
+h2 {
+  font-weight: bold;
+  font-family: cursive;
+}
+input {
+  padding: 1rem;
+  width: 80%;
+}
